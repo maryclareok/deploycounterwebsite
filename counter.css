@@ -18,13 +18,13 @@ h1{
     font-size: 72px;
     display: flex;
     justify-content: center;
-    column-gap: 5vh;
+    margin: 6px;
 }
 span{
     display: flex;
     justify-content: center;
     font-size: 22px;
-    column-gap: 5vh;
+    margin: 6px;
 }
 
 body{
