@@ -15,7 +15,7 @@ button{
     background-color: white;
     font: inherit;
     text-align: center;
-    border-radius: 50%;
+    border-radius: 50vh;
     width: 30vh;
     font-size: 4vh;
 }
