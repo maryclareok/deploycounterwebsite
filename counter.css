@@ -10,18 +10,13 @@
     gap: 2vh;
 }
 button{
-    padding: 8vh;
     background-color: white;
     font: inherit;
-    text-align: center;
     border-radius: 50vh;
     width: 30vh;
-    font-size: 4vh;
 }
 h1{
     font-size: 15vh;
-    position: relative;
-    bottom: 5vh;
     display: flex;
     justify-content: center;
 }
