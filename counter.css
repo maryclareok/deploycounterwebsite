@@ -13,19 +13,18 @@ button{
     background-color: white;
     font: inherit;
     border-radius: 50vh;
-    width: 30vh;
+    width: 20vh;
+    height: 20vh;
 }
 h1{
-    font-size: 15vh;
+    font-size: 18px;
     display: flex;
     justify-content: center;
 }
 span{
-    position: relative;
-    bottom: 2vh;
     display: flex;
     justify-content: center;
-    font-size: 10vh;
+    font-size: 13px;
 }
 
 body{
