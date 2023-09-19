@@ -5,7 +5,7 @@
 .buttoncontainer{
     display: flex;
     justify-content: center;
-    gap: 2vh;
+    gap: 6vh;
 }
 button{
     background-color: white;
@@ -24,7 +24,6 @@ span{
     display: flex;
     justify-content: center;
     font-size: 22px;
-    gap: 6vh;
 }
 
 body{
