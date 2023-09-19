@@ -10,6 +10,7 @@
 button{
     display: flex;
     gap: 2vh;
+    justify-content: center;
     background-color: white;
     font: inherit;
     border-radius: 50vh;
