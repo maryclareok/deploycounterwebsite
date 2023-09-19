@@ -18,13 +18,13 @@ h1{
     font-size: 72px;
     display: flex;
     justify-content: center;
-    margin: 6px;
+    margin: 6vh;
 }
 span{
     display: flex;
     justify-content: center;
     font-size: 22px;
-    margin: 6px;
+    margin: 6vh;
 }
 
 body{
