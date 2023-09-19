@@ -1,6 +1,6 @@
 .container{
     display:flex;
-    flex-direction: row;
+    flex-direction: column;
     position: relative;
     top: 5vh;
 
