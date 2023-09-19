@@ -8,8 +8,6 @@
     display: flex;
     justify-content: center;
     gap: 2vh;
-    position: relative;
-    top: 5vh;
 }
 button{
     padding: 8vh;
