@@ -18,11 +18,13 @@ h1{
     font-size: 72px;
     display: flex;
     justify-content: center;
+    gap: 2vh;
 }
 span{
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     font-size: 22px;
+    gap: 2vh;
 }
 
 body{
